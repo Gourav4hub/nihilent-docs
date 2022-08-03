@@ -1,0 +1,33 @@
+Banking Project
+
+	SuperAdmin
+	BankOfficers
+	Customer
+	
+
+1. User Module : Register User , Define Roles , UserRole Mapping , Login User
+
+		User , Role , UserRole	
+		Authentication and Authorization
+		
+2. Bank Module (superadmin) :  Add New Bank , List Bank , Search Bank ,
+			      AccountMaster : saving , current , etc...
+			      
+		Create , Update , List , Search , Deactive	
+		
+3. Bank Officer Module (superadmin) :    Add New Bank Officer , 
+
+		Create , Update , List , Search , Deactive , Delete	
+		
+4. Customer Registeration Module (Bank Officers) :  Register New Customer 
+	
+		Create , Update , List , Search , Deactive , Delete
+		
+5. Login Module (Customer,Bank Officer , Superadmin) : Login , Update , 
+
+6. Customer Dashboard (Customer) : 			
+		
+		
+		
+		
+			       			
